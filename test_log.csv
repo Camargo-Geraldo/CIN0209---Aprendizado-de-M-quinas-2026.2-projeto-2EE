@@ -1,0 +1,2 @@
+data_hora,execucao,forcada,modelos,n_teste,observacao
+2026-10-26T18:13:26+00:00,1,False,arvore;knn;naive_bayes;logistica;perceptron;mlp,4495,Entrega 2
